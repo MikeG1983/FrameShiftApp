@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

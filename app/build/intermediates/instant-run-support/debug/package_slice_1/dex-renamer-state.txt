@@ -1,0 +1,4 @@
+#Wed Apr 05 15:09:48 BST 2017
+base.0=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

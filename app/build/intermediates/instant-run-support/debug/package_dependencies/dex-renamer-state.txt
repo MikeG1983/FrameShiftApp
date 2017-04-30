@@ -1,0 +1,7 @@
+#Wed Apr 05 15:09:48 BST 2017
+base.0=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e4529d1f6e50b8a7b92cf6b7a034e66dc3637215
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfbaa3254461000d93bd34194aecc3e076480232/classes.dex
+base.1=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfbaa3254461000d93bd34194aecc3e076480232
+file.0=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e4529d1f6e50b8a7b92cf6b7a034e66dc3637215/classes.dex

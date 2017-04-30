@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/home/ragebunny/.android/build-cache/3e1630abccadc11b8371d8c6a9c5cd5091712328/output/assets"/></dataSet><dataSet config="main"><source path="/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/src/main/assets"/><source path="/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/src/debug/assets"/></dataSet></merger>

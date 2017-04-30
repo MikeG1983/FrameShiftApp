@@ -1,0 +1,7 @@
+#Sat Apr 29 17:39:30 BST 2017
+base.0=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2cf8acaa7a9646ae499adfb006a756e836a2120c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b54d1217cf02e8e2906172884722dbbef180431/classes.dex
+base.1=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9b54d1217cf02e8e2906172884722dbbef180431
+file.0=/home/ragebunny/AndroidStudioProjects/MikesShiftCalendar/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2cf8acaa7a9646ae499adfb006a756e836a2120c/classes.dex
